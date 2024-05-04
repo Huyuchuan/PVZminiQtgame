@@ -1,0 +1,19 @@
+QMAKE_CXX.QT_COMPILER_STDCXX = 199711L
+QMAKE_CXX.QMAKE_MSC_VER = 1900
+QMAKE_CXX.QMAKE_MSC_FULL_VER = 190024247
+QMAKE_CXX.COMPILER_MACROS = \
+    QT_COMPILER_STDCXX \
+    QMAKE_MSC_VER \
+    QMAKE_MSC_FULL_VER
+QMAKE_CXX.INCDIRS = \
+    "E:\\Program Files (x86)\\Microsoft Visual Studio 14.0\\VC\\INCLUDE" \
+    "E:\\Program Files (x86)\\Microsoft Visual Studio 14.0\\VC\\ATLMFC\\INCLUDE" \
+    "E:\\Windows Kits\\10\\include\\10.0.22621.0\\ucrt" \
+    "E:\\Windows Kits\\10\\include\\10.0.22621.0\\shared" \
+    "E:\\Windows Kits\\10\\include\\10.0.22621.0\\um" \
+    "E:\\Windows Kits\\10\\include\\10.0.22621.0\\winrt"
+QMAKE_CXX.LIBDIRS = \
+    "E:\\Program Files (x86)\\Microsoft Visual Studio 14.0\\VC\\LIB\\amd64" \
+    "E:\\Program Files (x86)\\Microsoft Visual Studio 14.0\\VC\\ATLMFC\\LIB\\amd64" \
+    "E:\\Windows Kits\\10\\lib\\10.0.22621.0\\ucrt\\x64" \
+    "E:\\Windows Kits\\10\\lib\\10.0.22621.0\\um\\x64"
